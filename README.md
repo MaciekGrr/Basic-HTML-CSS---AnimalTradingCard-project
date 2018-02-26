@@ -1,7 +1,6 @@
 # FrontWebDev-AnimalTradingCards
 This is for the sake of evaluation of my project from Udacity, FrontWeb Developer Course
-
-Design
+Rules that had to be followed: 
 
 Page resembles card from design prototype.
 
@@ -13,8 +12,6 @@ Uses border around animal’s information.
 Uses spacing between animal’s name, image, and information.
 Card width should be fixed and include the spacing around the image (Since image is 300px wide, card should be 300px + spacing on either side. Card should not expand with the browser window).
 Feel free to customize your information and styles so long as you follow the above rules. For inspiration, you can try playing around with background colors or border radius!
-
-Check out and share designs in the Udacity Discussion Forum!
 
 Custom Image and Text
 The placeholder image and information is replaced with favorite animal image and information.
