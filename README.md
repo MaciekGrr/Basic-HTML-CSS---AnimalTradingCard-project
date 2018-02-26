@@ -1,4 +1,4 @@
-# FrontWebDev-projects
+# FrontWebDev-AnimalTradingCards
 This is for the sake of evaluation of my project from Udacity, FrontWeb Developer Course
 
 Design
