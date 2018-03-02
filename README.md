@@ -1,8 +1,8 @@
 # Basic HTML&CSS page project
 # FrontWebDev- project: AnimalTradingCards
-I made this project inspired by prototype.png and description from below.
-I wrote it on my own in Atom.
-This task is a part of Udacity, Nanodegree FrontWeb Developer Course
+
+I made this small "page" (card.html) inspired by prototype.png and description from below.
+I wrote it on my own in Atom. This task is a first project of Udacity, Nanodegree FrontWeb Developer Course
 
 Rules that had to be followed: 
 
