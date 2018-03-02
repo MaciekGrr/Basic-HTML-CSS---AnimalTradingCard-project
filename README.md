@@ -1,6 +1,7 @@
 # Basic HTML page project
 # FrontWebDev- project: AnimalTradingCards
-I made this project based on prototype.png and attached documentation, for the sake of evaluation of my project from Udacity, Nanodegree FrontWeb Developer Course
+I made this project inspired by prototype.png and description from below.
+This task is a part of Udacity, Nanodegree FrontWeb Developer Course
 
 Rules that had to be followed: 
 
