@@ -1,6 +1,7 @@
-# Basic HTML page project
+# Basic HTML&CSS page project
 # FrontWebDev- project: AnimalTradingCards
 I made this project inspired by prototype.png and description from below.
+I wrote it on my own in Atom.
 This task is a part of Udacity, Nanodegree FrontWeb Developer Course
 
 Rules that had to be followed: 
@@ -20,3 +21,5 @@ Custom Image and Text
 The placeholder image and information is replaced with favorite animal image and information.
 The image is 300px wide or the image's width is set to 300px.
 The image’s alt is relevant to the animal used.
+
+More in styles.css
