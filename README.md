@@ -1,6 +1,7 @@
-# Basic HTML
+# Basic HTML page project
 # FrontWebDev- project: AnimalTradingCards
-This is for the sake of evaluation of my project from Udacity, FrontWeb Developer Course
+This was made for the sake of evaluation of my project from Udacity, Nanodegree FrontWeb Developer Course
+
 Rules that had to be followed: 
 
 Page resembles card from design prototype.
